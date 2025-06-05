@@ -51,4 +51,5 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/natale-nyakinyua/GeoWines.git
+https://natales-geowines-nyuk.vercel.app/
 cd GeoWines
