@@ -50,5 +50,5 @@ GeoWines is an elegant, responsive, and immersive web project dedicated to offer
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/GeoWines.git
+git clone https://github.com/natale-nyakinyua/GeoWines.git
 cd GeoWines
