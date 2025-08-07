@@ -41,7 +41,7 @@ GeoWines is an elegant, responsive, and immersive web project dedicated to offer
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- *(Optional: Add any frameworks like React, Bootstrap, Tailwind if used)*
+- 
 
 ---
 
